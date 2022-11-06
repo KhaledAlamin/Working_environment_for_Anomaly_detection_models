@@ -8,7 +8,7 @@ Dockerfile and Docker hub reference repo for Working environments for most Anoma
 ## Notes
 
 ```
-docker tag <image_id> khaledalamin/WorkEnv_AD:1.0
-docker push khaledalamin/WorkEnv_AD:1.0
-docker pull khaledalamin/WorkEnv_AD:1.0
+docker tag <image_id> khaledalamin/pdm:1.0
+docker push khaledalamin/pdm:1.0
+docker pull khaledalamin/pdm:1.0
 ```
